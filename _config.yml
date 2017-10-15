@@ -17,13 +17,13 @@ nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
 url: 'http://farerpath.github.io/'
-image: 'assets/images/casper.png'
+image: '/assets/images/casper.png'
 
 short_url: 'farerpath.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
